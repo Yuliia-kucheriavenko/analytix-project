@@ -1,5 +1,5 @@
-git clone [Analytix] (https://github.com/Yuliia-kucheriavenko/analytix.git)
-[DEMO LINK] (https://6642fa83496fcb9472ba45e0--neon-naiad-60a38f.netlify.app/) - not connect with server part
+### git clone [Analytix] (https://github.com/Yuliia-kucheriavenko/analytix.git)
+### [DEMO LINK] (https://6642fa83496fcb9472ba45e0--neon-naiad-60a38f.netlify.app/) - not connect with server part
 
 cd analytix/server
 ### `npm install`
