@@ -1,0 +1,29 @@
+
+.form_input {
+  padding: 17px 24px;
+  border: 1px solid #E0E2E7; 
+  background-color: transparent;
+  border-radius: 16px;
+  color: #A3AED0; 
+  font-size: 14px; 
+  outline: none;
+  margin-top: 13px;
+}
+
+.form_input:focus {
+  box-shadow: 0 0 0 1px rgba(66, 153, 225, 0.5);
+}
+
+.form_label {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.button {
+  padding: 20px 90px;
+  background-image: linear-gradient(to right, #70A9FF, #316EC9, #0149B4);
+  border-radius: 16px;
+  font-size: 14px; 
+  color: white; 
+  font-weight: bold;
+}
